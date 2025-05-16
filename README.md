@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Diveshg21
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Many Programming Languages
-- 💞️ I’m looking to collaborate on for now its halted
-- 📫 How to reach me Insta Maybe??!
+- 💞️ No collabration right now maybe in the future!?
+- 📫 You can reach me through my INSTAGRAM
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an student
+- ⚡ Fun fact: Student🙋🏻
 
 <!---
 Diveshg21/Diveshg21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
